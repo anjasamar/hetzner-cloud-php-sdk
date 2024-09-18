@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MessDetectorOptionsConfiguration">
+    <option name="transferred" value="true" />
+  </component>
+  <component name="PHPCSFixerOptionsConfiguration">
+    <option name="transferred" value="true" />
+  </component>
+  <component name="PHPCodeSnifferOptionsConfiguration">
+    <option name="highlightLevel" value="WARNING" />
+    <option name="transferred" value="true" />
+  </component>
+  <component name="PhpIncludePathManager">
+    <include_path>
+      <path value="$PROJECT_DIR$/hetzner-cloud/vendor/sebastian/type" />
+      <path value="$PROJECT_DIR$/hetzner-cloud/vendor/sebastian/diff" />
+      <path value="$PROJECT_DIR$/hetzner-cloud/vendor/sebastian/lines-of-code" />
+      <path value="$PROJECT_DIR$/hetzner-cloud/vendor/sebastian/object-enumerator" />
+      <path value="$PROJECT_DIR$/hetzner-cloud/vendor/sebastian/comparator" />
+      <path value="$PROJECT_DIR$/hetzner-cloud/vendor/symfony/deprecation-contracts" />
+      <path value="$PROJECT_DIR$/hetzner-cloud/vendor/sebastian/code-unit" />
+      <path value="$PROJECT_DIR$/hetzner-cloud/vendor/sebastian/exporter" />
+      <path value="$PROJECT_DIR$/hetzner-cloud/vendor/sebastian/cli-parser" />
+      <path value="$PROJECT_DIR$/hetzner-cloud/vendor/myclabs/deep-copy" />
+      <path value="$PROJECT_DIR$/hetzner-cloud/vendor/sebastian/version" />
+      <path value="$PROJECT_DIR$/hetzner-cloud/vendor/sebastian/complexity" />
+      <path value="$PROJECT_DIR$/hetzner-cloud/vendor/sebastian/recursion-context" />
+      <path value="$PROJECT_DIR$/hetzner-cloud/vendor/theseer/tokenizer" />
+      <path value="$PROJECT_DIR$/hetzner-cloud/vendor/sebastian/resource-operations" />
+      <path value="$PROJECT_DIR$/hetzner-cloud/vendor/sebastian/environment" />
+      <path value="$PROJECT_DIR$/hetzner-cloud/vendor/sebastian/global-state" />
+      <path value="$PROJECT_DIR$/hetzner-cloud/vendor/sebastian/code-unit-reverse-lookup" />
+      <path value="$PROJECT_DIR$/hetzner-cloud/vendor/sebastian/object-reflector" />
+      <path value="$PROJECT_DIR$/hetzner-cloud/vendor/phpstan/phpstan" />
+      <path value="$PROJECT_DIR$/hetzner-cloud/vendor/composer" />
+      <path value="$PROJECT_DIR$/hetzner-cloud/vendor/illuminate/contracts" />
+      <path value="$PROJECT_DIR$/hetzner-cloud/vendor/phpunit/php-code-coverage" />
+      <path value="$PROJECT_DIR$/hetzner-cloud/vendor/illuminate/collections" />
+      <path value="$PROJECT_DIR$/hetzner-cloud/vendor/phpunit/php-file-iterator" />
+      <path value="$PROJECT_DIR$/hetzner-cloud/vendor/illuminate/macroable" />
+      <path value="$PROJECT_DIR$/hetzner-cloud/vendor/nikic/php-parser" />
+      <path value="$PROJECT_DIR$/hetzner-cloud/vendor/phpunit/php-invoker" />
+      <path value="$PROJECT_DIR$/hetzner-cloud/vendor/illuminate/conditionable" />
+      <path value="$PROJECT_DIR$/hetzner-cloud/vendor/phpunit/php-text-template" />
+      <path value="$PROJECT_DIR$/hetzner-cloud/vendor/phpunit/phpunit" />
+      <path value="$PROJECT_DIR$/hetzner-cloud/vendor/doctrine/instantiator" />
+      <path value="$PROJECT_DIR$/hetzner-cloud/vendor/phpunit/php-timer" />
+      <path value="$PROJECT_DIR$/hetzner-cloud/vendor/psr/simple-cache" />
+      <path value="$PROJECT_DIR$/hetzner-cloud/vendor/psr/http-message" />
+      <path value="$PROJECT_DIR$/hetzner-cloud/vendor/psr/http-factory" />
+      <path value="$PROJECT_DIR$/hetzner-cloud/vendor/psr/container" />
+      <path value="$PROJECT_DIR$/hetzner-cloud/vendor/psr/http-client" />
+      <path value="$PROJECT_DIR$/hetzner-cloud/vendor/phar-io/version" />
+      <path value="$PROJECT_DIR$/hetzner-cloud/vendor/guzzlehttp/promises" />
+      <path value="$PROJECT_DIR$/hetzner-cloud/vendor/phar-io/manifest" />
+      <path value="$PROJECT_DIR$/hetzner-cloud/vendor/guzzlehttp/psr7" />
+      <path value="$PROJECT_DIR$/hetzner-cloud/vendor/guzzlehttp/guzzle" />
+      <path value="$PROJECT_DIR$/hetzner-cloud/vendor/ralouphie/getallheaders" />
+    </include_path>
+  </component>
+  <component name="PhpProjectSharedConfiguration" php_language_level="7.1" />
+  <component name="PhpStan">
+    <PhpStan_settings>
+      <PhpStanConfiguration tool_path="$PROJECT_DIR$/hetzner-cloud/vendor/bin/phpstan" />
+    </PhpStan_settings>
+  </component>
+  <component name="PhpStanOptionsConfiguration">
+    <option name="transferred" value="true" />
+  </component>
+  <component name="PhpUnit">
+    <phpunit_settings>
+      <PhpUnitSettings configuration_file_path="$PROJECT_DIR$/hetzner-cloud/phpunit.xml.dist" custom_loader_path="$PROJECT_DIR$/hetzner-cloud/vendor/autoload.php" use_configuration_file="true" />
+    </phpunit_settings>
+  </component>
+  <component name="PsalmOptionsConfiguration">
+    <option name="transferred" value="true" />
+  </component>
+</project>

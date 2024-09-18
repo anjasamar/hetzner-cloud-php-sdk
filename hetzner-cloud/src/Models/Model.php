@@ -1,0 +1,43 @@
+<?php
+
+namespace atsicorp\HetznerCloud\Models;
+
+use GuzzleHttp\Client;
+use atsicorp\HetznerCloud\HetznerAPIClient;
+
+abstract class Model
+{
+    /**
+     * @var \GuzzleHttp\Client
+     */
+    protected $httpClient;
+
+    /**
+     * Model constructor.
+     *
+     * @param  Client  $httpClient
+     */
+    public function __construct(Client $httpClient = null)
+    {
+        $this->httpClient = $httpClient == null ? HetznerAPIClient::$instance->getHttpClient() : $httpClient;
+    }
+
+    /**
+     * @param  $input
+     * @return static
+     */
+    public static function parse($input)
+    {
+        return null;
+    }
+
+    /**
+     * Replaces or sets the http client.
+     *
+     * @param  Client  $httpClient
+     */
+    public function setHttpClient(Client $httpClient = null)
+    {
+        $this->httpClient = $httpClient;
+    }
+}
