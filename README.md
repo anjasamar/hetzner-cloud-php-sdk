@@ -7,7 +7,7 @@ A PHP SDK for the Hetzner Cloud API: https://docs.hetzner.cloud/
 You can install the package via composer:
 
 ```bash
-composer require atsicorp/hetzner-cloud-php-sdk
+composer require atsicorp/hetzner-cloud
 ```
 
 ## Usage
